@@ -1,0 +1,12 @@
+This project mainly focuses on UI automation of websites :
+    like Amazon.in (which includes a basic flow of adding a mobile under 10k to the cart and adding with new address along with card details).
+    Amazon.in website automion works on different browsers like firefox , chrome ,safari etc .
+    We have used Saucelabs for automting the test scenarios of amazon website to tets on mobile web browser with very few basic functionalites check.
+    
+    Govt website automation , which includes different flow of forgot pasword , login , registration of Maharastra and karnataka government (Still iin progress) 
+    which has Captcha , where we are automating the capctha part using Pytesseract module of python by capturing the webelement image and then converting the image
+    to string using inbuilt function and then submitting the captcha.
+    
+    Note : Here we have not disclosed any username ,password along with details like PAN etc , those are just dummy values which we have used in this automation.
+    
+    Detailed instruction about the automation scripts can be find in UI_Automation_document.docx file 
