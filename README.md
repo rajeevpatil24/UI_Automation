@@ -12,6 +12,7 @@ Maharashtra   state govt website Automation Completed so one can run Maha_govt.p
 
 
 # Pre-requisites 
+In order to run the automation script Python3 and pip should be pre-installed  and below libraries should be installed.
   ```pip install pytest-html```
   ```pip install selenium```
   ```pip install pytest```
